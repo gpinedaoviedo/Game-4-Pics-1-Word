@@ -40,22 +40,24 @@ Step-by-Step Installation
 
 1. Clone the repository:
 
-Bash
+```Bash
    git clone [https://github.com/gpinedaoviedo/Game-4-Pics-1-Word](https://github.com/gpinedaoviedo/Game-4-Pics-1-Word)
    cd Game-4-Pics-1-Word
+```
 
 2. Install dependencies:
 This project relies on Pillow for high-quality image scaling and handling within Tkinter. Install it via pip:
 
-Bash
+```Bash
    pip install -r requirements.txt
+```
 
 3. Run the Game:
 Execute the main python script to launch the interface:
 
-Bash
+```Bash
    python main.py
-
+```
 
 ## 5. How to Play
 
