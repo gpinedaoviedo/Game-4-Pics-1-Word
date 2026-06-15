@@ -28,6 +28,7 @@ The game challenges players to find the common link between four images. Since t
     ├── nivel_3/            # Images for Level 3 (KEYBOARD)
     ├── nivel_4/            # Images for Level 4 (NETWORK)
     └── nivel_5/            # Images for Level 5 (LOOP)
+```
 
 ## 4. Installation & Setup
 Follow these quick steps to set up and run the game locally:
@@ -40,8 +41,8 @@ Step-by-Step Installation
 1. Clone the repository:
 
 Bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
+   git clone [https://github.com/gpinedaoviedo/4-Pics-1-Word-Game](https://github.com/gpinedaoviedo/4-Pics-1-Word-Game)
+   cd 4-Pics-1-Word-Game
 
 2. Install dependencies:
 This project relies on Pillow for high-quality image scaling and handling within Tkinter. Install it via pip:
@@ -65,5 +66,8 @@ Bash
 3. Type your answer in the central input field and click Send (or simply press the Enter key).
 
 4. Stuck? Click the Hint button! It will tell you the length of the word or reveal a unique letter contained in the answer. Use them wisely—you only get 3 hints per level!
+
+## 6. License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you to the Stanford Code in Place team, section leaders, and community for an amazing learning journey!
